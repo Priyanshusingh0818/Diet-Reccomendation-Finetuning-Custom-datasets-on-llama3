@@ -1,0 +1,1 @@
+{"dataset1_accuracy": 1.0, "dataset2_classification_accuracy": 0.24242424242424243, "dataset2_regression_mse": 5059.452098179216, "dataset2_regression_r2": 0.9263631271447028, "tuned_dataset2_classification_accuracy": 0.2878787878787879, "tuned_dataset2_regression_mse": 4886.467424343691, "tuned_dataset2_regression_r2": 0.9296919897258271}
